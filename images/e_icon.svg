@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="106px" viewBox="0 0 125 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>E</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="82" height="23"></rect>
+        <rect id="path-3" x="0" y="0" width="82" height="23"></rect>
+        <rect id="path-5" x="0" y="0" width="82" height="23"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-457.000000, -5290.000000)">
+            <g id="E" transform="translate(457.000000, 5290.000000)">
+                <rect id="Rectangle" stroke="#FFFFFF" opacity="0.200000003" x="0.5" y="0.5" width="124" height="105"></rect>
+                <g id="Rectangle-3" transform="translate(34.000000, 9.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <rect stroke="#FFFFFF" x="0.5" y="0.5" width="81" height="22"></rect>
+                    <path d="M0.638479366,22.4528636 L81.5,0.5" id="Line-7" stroke="#FFFFFF" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    <path d="M0.638479366,22.4528636 L81.5,0.5" id="Line-7" stroke="#FFFFFF" stroke-linecap="square" mask="url(#mask-2)" transform="translate(41.069240, 11.476432) scale(-1, 1) translate(-41.069240, -11.476432) "></path>
+                </g>
+                <g id="Rectangle-3-Copy" transform="translate(34.000000, 42.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <rect stroke="#FCEE55" x="0.5" y="0.5" width="81" height="22"></rect>
+                </g>
+                <g id="Rectangle-3-Copy-2" transform="translate(34.000000, 75.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <rect stroke="#FFFFFF" x="0.5" y="0.5" width="81" height="22"></rect>
+                    <path d="M0.638479366,22.4528636 L81.5,0.5" id="Line-7" stroke="#FFFFFF" stroke-linecap="square" mask="url(#mask-6)"></path>
+                    <path d="M0.638479366,22.4528636 L81.5,0.5" id="Line-7" stroke="#FFFFFF" stroke-linecap="square" mask="url(#mask-6)" transform="translate(41.069240, 11.476432) scale(-1, 1) translate(-41.069240, -11.476432) "></path>
+                </g>
+                <rect id="Rectangle" stroke="#FFFFFF" x="10.5" y="9.5" width="13" height="89"></rect>
+                <path d="M38.5,46.5 L54.0212286,46.5" id="Line-8" stroke="#FCEE55" stroke-width="3" opacity="0.400000006" stroke-linecap="square"></path>
+                <path d="M37.5,50.5 L53.0212286,50.5" id="Line-8-Copy" stroke="#FCEE55" opacity="0.400000006" stroke-linecap="square"></path>
+                <path d="M37.5,55.5 L109.222582,55.5" id="Line-8-Copy-2" stroke="#FCEE55" opacity="0.400000006" stroke-linecap="square"></path>
+                <path d="M37.5,58.5 L91.3157156,58.5" id="Line-8-Copy-3" stroke="#FCEE55" opacity="0.400000006" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
