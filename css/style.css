@@ -392,7 +392,7 @@ section.footer .logo {
 }
 
 .inline-img {
-  height: 90px;
+  height: 110px;
 }
 
 .show-mobile {
@@ -434,4 +434,8 @@ section.footer .logo {
   .skillsets > div {
     margin-bottom: 30px;
   }
+}
+
+.skillsets img {
+  height: 100px;
 }
