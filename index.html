@@ -19,6 +19,8 @@
     <link href="https://fonts.googleapis.com/css?family=Oswald:500|Playfair+Display:400,400i,700|Quattrocento+Sans:400,700" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
+
   </head>
 
   <body>
@@ -29,6 +31,13 @@
     <section class="hero orange-bg">
       <div class="content">
         <img class="logo slideInDown" src="images/logo_white.svg" alt="Jessign">
+        <h1 class="element"></h1>
+        <!-- <h1>I
+          <span
+             class="txt-rotate"
+             data-period="1000"
+             data-rotate='[ "create user interfaces.", "define branding identity.", "build websites", "craft user experiences" ]'></span>
+        </h1> -->
         <h3 class="wow fadeInUp">
           From MVPs to full-scale products,<br/>
           <span class="font-italic">in the shortest amount of time.</span>
@@ -286,6 +295,16 @@
         <img class="logo" src="images/logo.svg" alt="Jessign">
       </div>
     </section>
+
+    <script>
+      var options = {
+        strings: ["I create user interfaces.^500", "I define branding identity.^500", "I build websites.^500", "I craft user experiences.^500"],
+        typeSpeed: 60,
+        loop: true,
+        backSpeed: 30
+      }
+      var typed = new Typed(".element", options);
+    </script>
 
   </body>
 </html>
