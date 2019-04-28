@@ -178,6 +178,10 @@ section h4.title {
   margin-bottom: 20px;
 }
 
+.portfolio .project p img {
+  display: block;
+}
+
 .portfolio .project .project-img {
   width: 100%;
 }
