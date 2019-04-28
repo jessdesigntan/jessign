@@ -12,6 +12,11 @@ a {
   color: inherit;
 }
 
+a:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 section {
   padding: 80px 50px;
 }
@@ -438,4 +443,30 @@ section.footer .logo {
 
 .skillsets img {
   height: 100px;
+}
+
+section.contact {
+  position: relative;
+  height: 297px;
+}
+
+section.contact a {
+  top: 0;
+  height: 297px;
+  position: absolute;
+  display: block;
+  color: white;
+  cursor: pointer;
+  left: calc(50% - 148px);
+  -webkit-box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.19);
+  -moz-box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.19);
+  box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.19);
+  transition: 0.3s all 0s ease;
+}
+
+section.contact a:hover {
+top: -10px;
+-webkit-box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.4);
+-moz-box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.4);
+box-shadow: 0px 0px 26px 0px rgba(0,0,0,0.4);
 }
