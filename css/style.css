@@ -373,3 +373,48 @@ section.footer .logo {
 .hire-me .available {
   margin-bottom: 0;
 }
+
+.inline-img {
+  height: 90px;
+}
+
+.show-mobile {
+  display: none !important;
+}
+
+@media (max-width: 768px) {
+  .about > .row > .about-me {
+    border-right: none;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  .inline-img {
+    height: unset;
+    width: 100%;
+  }
+
+  .portfolio .project > * {
+    width: 100%;
+    display: block;
+    max-width: 100%;
+  }
+
+  .hide-mobile {
+    display: none !important;
+  }
+
+  .show-mobile {
+    display: block !important;
+  }
+
+  .row.project {
+    margin: auto auto 60px auto;
+  }
+
+  .skillsets > div {
+    margin-bottom: 30px;
+  }
+}
