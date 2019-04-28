@@ -444,6 +444,19 @@ section.footer .logo {
     top: 15px;
     right: 15px;
   }
+
+  section.hero .element {
+    height: 103px;
+    font-size: 26px;
+  }
+
+  section.hero h3 {
+    font-size: 18px;
+  }
+
+  section.hero .logo {
+    width: 130px;
+  }
 }
 
 .skillsets img {
